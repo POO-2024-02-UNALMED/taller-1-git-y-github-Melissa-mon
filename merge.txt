@@ -1,0 +1,1 @@
+Porque clonamos nuestro propio repositorio de la web en nuestro computador y una vez lo hacemos, tenemos la opción de agregar comentario según lo que hicimos y darle commit to main y luego push origin para así poder subirlo a la carpeta
