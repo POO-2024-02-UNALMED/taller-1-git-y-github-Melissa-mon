@@ -1,0 +1,1 @@
+A la hora de darle en commit, me salía como si no estuviera logueada en el correo.
