@@ -1,2 +1,4 @@
-¿Por qu ́e ahora puedes crear un commit y subir la carpeta?
+¿Por que ahora puedes crear un commit y subir la carpeta?
 Porque clonamos nuestro propio repositorio de la web en nuestro computador y una vez lo hacemos, tenemos la opción de agregar comentario según lo que hicimos y darle commit to main y luego push origin para así poder subirlo a la carpeta
+¿Por que es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+Porque hay un riesgo de que los cambios que hace cada persona resulten en conflicto entre sí, por lo cual se puede perder información valiosa que otra persona ya haya agregado.
